@@ -1,1 +1,2 @@
 ghcr.io/sasakaranovic/openfancontroller:release
+bplein/mbpfan:latest
